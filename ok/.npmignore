@@ -1,0 +1,7 @@
+tests
+__tests__
+__snapshots__
+*.js.snap
+.*ignore
+tsconfig*.json
+Documentation

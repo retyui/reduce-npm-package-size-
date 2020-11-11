@@ -1,0 +1,68 @@
+# test directories
+__tests__
+test
+tests
+powered-test
+
+# asset directories
+docs
+doc
+website
+images
+assets
+
+# examples
+example
+examples
+
+# code coverage directories
+coverage
+.nyc_output
+
+# build scripts
+Makefile
+Gulpfile.js
+Gruntfile.js
+
+# configs
+appveyor.yml
+circle.yml
+codeship-services.yml
+codeship-steps.yml
+wercker.yml
+.tern-project
+.gitattributes
+.editorconfig
+.*ignore
+.eslintrc
+.jshintrc
+.flowconfig
+.documentup.json
+.yarn-metadata.json
+.travis.yml
+.github
+.circleci
+.gitlab-ci.yml
+bitrise.yml
+buddy.yml
+codemagic.yaml
+
+
+# misc
+*.md
+
+# Test
+*.test.d.ts
+*.test.ts
+*.test.tsx
+*.test.js
+*.test.jsx
+*.spec.d.ts
+*.spec.ts
+*.spec.tsx
+*.spec.js
+*.spec.jsx
+
+# Editors
+.vscode
+.idea
